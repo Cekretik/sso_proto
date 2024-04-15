@@ -1,4 +1,4 @@
-module sso_proto
+module github.com/Cekretik/sso_proto
 
 go 1.22.0
 
